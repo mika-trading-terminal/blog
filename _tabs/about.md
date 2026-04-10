@@ -1,13 +1,16 @@
 ---
-title: Über mich
+title: Insider
 icon: fas fa-info-circle
 order: 4
 ---
 
-Ich trade seit Jahren und streame regelmäßig live, wie ich Charts lese, Zonen einzeichne und Entscheidungen treffe – in Echtzeit, ohne Nachbearbeitung.
+Wenn ich eines in meinem Elektrotechnik-Studium gelernt habe, dann das: 
+> **Verstehen ist besser als nachmachen.
+> Wer nur kopiert, bleibt abhängig. Wer versteht wird unabhängig.**                                                                         
+                                                            
+Genau das ist mein Ansatz im Trading – und der Grund, warum dieser Blog existiert. Ich möchte dir nicht sagen, wann und was du kaufen sollst. Ich möchte dir zeigen, wie ich denke. Damit du irgendwann selbst siehst, was ich sehe.
 
-Dieser Blog ist die schriftliche Erweiterung meines Streams. Hier findest du tiefere Erklärungen zu Konzepten, die ich im Stream anreisse, aber nicht immer vollständig ausführen kann.
-
-**Was mich antreibt:** Ich glaube, dass echtes Verstehen wichtiger ist als blinde Regeln. Wer versteht, warum eine Zone funktioniert, braucht keinen Indikator mehr, der ihm erklärt, was bereits passiert ist.
-
-Folge dem Repo für neue Beiträge oder schau im Stream vorbei.
+Danke für deinen Support! Ich werde alles daran setzen, mein Wissen so klar und ehrlich wie      
+möglich weiterzugeben.                                    
+                                                                                                                                        
+Wir sehen uns im Stream - Mika.
