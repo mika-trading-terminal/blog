@@ -1,0 +1,71 @@
+theme: jekyll-theme-chirpy
+
+lang: de
+timezone: Europe/Berlin
+
+title: "Mika Trading"
+tagline: "Chartlesen. Marktpsychologie. Klarheit."
+description: >-
+  Trading-Analyse, Chartlesen und Marktpsychologie –
+  direkt aus dem Stream, für die Community.
+
+url: "https://mika-trading-terminal.github.io"
+baseurl: "/blog"
+
+github:
+  username: mika-trading-terminal
+
+social:
+  name: Mika
+  email: ""
+  links: []
+
+avatar: ""
+
+# ── Theme ────────────────────────────────────────────────────────────────────
+theme_mode: dark   # light | dark
+
+toc: true          # table of contents on posts
+
+# ── Pagination ───────────────────────────────────────────────────────────────
+paginate: 10
+
+# ── Comments (optional – disable for now) ────────────────────────────────────
+comments:
+  active: ""
+
+# ── SEO ──────────────────────────────────────────────────────────────────────
+google_site_verification: ""
+
+# ── Plugins ──────────────────────────────────────────────────────────────────
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# ── Collections ──────────────────────────────────────────────────────────────
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+  - scope:
+      path: "_tabs"
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+exclude:
+  - "*.gem"
+  - "*.gemspec"
+  - Gemfile.lock
+  - node_modules
+  - vendor
