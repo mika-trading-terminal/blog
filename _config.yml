@@ -3,7 +3,7 @@ theme: jekyll-theme-chirpy
 lang: de
 timezone: Europe/Berlin
 
-title: "Mika Trading"
+title: "Mika Hentschel"
 tagline: "Chartlesen. Marktpsychologie. Klarheit."
 description: >-
   Trading-Analyse, Chartlesen und Marktpsychologie –
@@ -20,10 +20,10 @@ social:
   email: ""
   links: []
 
-avatar: ""
+avatar: /assets/img/avatar.png
 
 # ── Theme ────────────────────────────────────────────────────────────────────
-theme_mode: dark   # light | dark
+theme_mode: light   # light | dark
 
 toc: true          # table of contents on posts
 
