@@ -13,9 +13,9 @@ tags: [support, resistance, zonen, top-down-analyse, chartlesen, priceaction]
 
 Im letzten Artikel haben wir verstanden, warum Support und Resistance überhaupt entstehen – kollektives Gedächtnis, emotionale Preise, Kampf zwischen Käufern und Verkäufern. Heute gehen wir einen Schritt weiter: Nicht jede Zone ist gleich stark. Und wer alles markiert, sieht am Ende gar nichts mehr.
 
-Das ist einer der häufigsten Fehler, den ich bei Tradern sehe – der Chart ist vollgekleistert mit Linien. Überall Support, überall Resistance. Und wenn der Kurs dann irgendwo reagiert, sagt man: „Hab ich doch gesagt." Aber das ist kein Trading. Das ist Rückschau.
+Das ist einer der häufigsten Fehler, den ich bei Tradern sehe – der Chart ist vollgekleistert mit Linien. Überall Support, überall Resistance. Und wenn der Kurs dann irgendwo reagiert, sagt man: „Hab ich doch gesagt."
 
-> „Ein Chart mit zwanzig Zonen sagt dir gar nichts. Ein Chart mit drei starken Zonen sagt dir alles."
+> „Ein Chart mit zwanzig Zonen sagt dir gar nichts. Ein Chart mit 5 starken Zonen sagt dir alles."
 
 ---
 
@@ -47,7 +47,7 @@ Aber hier kommt ein wichtiger Filter, den viele übersehen: Eine solche Zone ist
 
 Eine S&R-Zone alleine ist gut. Eine S&R-Zone, die gleichzeitig auf einem Fibonacci-Level liegt oder mit einer High Volume Node zusammenfällt – das ist eine andere Kategorie. Mehrere unabhängige Konzepte zeigen auf denselben Preis. Der Markt „sieht" diese Zone aus verschiedenen Perspektiven.
 
-Auf dieses Thema gehe ich in Artikel 4 tief ein. Vorerst gilt: Wenn sich zwei oder mehr Konzepte an einem Preis treffen, rückt diese Zone ganz nach oben auf meiner Liste.
+Auf dieses Thema gehe ich in Artikel 3 tief ein. Vorerst gilt: Wenn sich zwei oder mehr Konzepte an einem Preis treffen, rückt diese Zone ganz nach oben auf meiner Liste.
 
 ---
 
@@ -77,7 +77,7 @@ Und hier noch ein praktischer Hinweis für dein Day-to-Day Trading: Du musst nic
 
 Wenn ich eine starke Zone auf dem Daily oder 4H identifiziert habe und der 1H mir die Richtung bestätigt, zoome ich auf den 30-Minuten- oder 15-Minuten-Chart. Hier suche ich nach lokalen Leveln – kleine Strukturpunkte, die mir einen präziseren Einstieg in die große Zone ermöglichen.
 
-Das ist der Unterschied zwischen „ich trade in dieser Zone" und „ich trade genau hier in dieser Zone". Präzision schützt mein Kapital. Ein besserer Einstieg bedeutet einen engeren Stop – und ein besseres Chance-Risiko-Verhältnis.
+Präzision schützt mein Kapital. Ein besserer Einstieg bedeutet einen engeren Stop – und ein besseres Chance-Risiko-Verhältnis.
 
 ---
 
@@ -117,7 +117,7 @@ Genauso wichtig wie das Finden starker Zonen ist das bewusste Ignorieren schwach
 
 Ein kurzer aber wichtiger Hinweis zu Zonen, die bereits mehrfach getestet wurden: Das bedeutet nicht automatisch, dass sie schwach sind. Im Gegenteil – eine Zone, die mehrfach gehalten hat, verdient Respekt. Aber wenn sie gebrochen wird, gilt: Der erste Retest dieser Zone ist der sauberste Einstieg. Danach wird die Zone zunehmend unzuverlässiger, weil die ursprünglichen Orders abgearbeitet sind.
 
-> „Die besten Trades kommen von den klarsten Zonen. Wenn du lange überlegen musst, ob eine Zone valid ist – sie ist es nicht."
+> „Die besten Trades kommen von den klarsten Zonen. Wenn du lange überlegen musst, ob eine Zone valid ist – ist sie es nicht."
 
 ---
 
