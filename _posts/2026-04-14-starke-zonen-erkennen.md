@@ -77,7 +77,7 @@ Und hier noch ein praktischer Hinweis für dein Day-to-Day Trading: Du musst nic
 
 Wenn ich eine starke Zone auf dem Daily oder 4H identifiziert habe und der 1H mir die Richtung bestätigt, zoome ich auf den 30-Minuten- oder 15-Minuten-Chart. Hier suche ich nach lokalen Leveln – kleine Strukturpunkte, die mir einen präziseren Einstieg in die große Zone ermöglichen.
 
-Präzision schützt mein Kapital. Ein besserer Einstieg bedeutet einen engeren Stop – und ein besseres Chance-Risiko-Verhältnis.
+Präzision schützt dein Kapital. Ein besserer Einstieg bedeutet einen engeren Stop – und ein besseres Chance-Risiko-Verhältnis.
 
 ---
 
