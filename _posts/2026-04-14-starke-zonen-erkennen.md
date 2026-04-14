@@ -39,7 +39,7 @@ Aber hier kommt ein wichtiger Filter, den viele übersehen: Eine solche Zone ist
 
 ### Wie ich das lese
 
-> Ein einzelner Wick sagt mir: Der Kurs wurde kurz dahin gedrückt – durch Liquidationen oder einen großen Market Order. Aber das ist keine Entscheidung, das ist Lärm. Ich will sehen wie der Markt abbremst, wie die Kerzen kleiner werden, wie sich ein Round Top oder Bottom formt. Das ist der Beweis, dass auf diesem Level wirklich gekauft oder verkauft wurde.
+> Ein einzelner Wick sagt mir: Der Kurs wurde kurz dahin gedrückt – durch Liquidationen oder einer großen Market Order. Aber das ist keine Entscheidung, das ist Lärm. Ich will sehen wie der Markt abbremst, wie die Kerzen kleiner werden, wie sich ein Round Top oder Bottom formt. Das ist der Beweis, dass auf diesem Level wirklich gekauft oder verkauft wurde.
 
 ---
 
