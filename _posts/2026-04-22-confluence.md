@@ -82,12 +82,11 @@ Eine offene FVG in einer starken Zone ist für mich immer ein Hinweis, dass dies
     <div style="font-size:0.85rem;color:#666;margin-top:0.3rem;">Ungehandelter Bereich – erhöhte Wahrscheinlichkeit, dass der Kurs zurückkommt</div>
   </div>
 </div>
-
-Hier ein echtes Beispiel aus dem Chart – S&R-Zone, Golden Pocket zwischen 0.5 und 0.618, und eine offene FVG. Alle drei treffen denselben Bereich:
+<!-- Hier ein echtes Beispiel aus dem Chart – S&R-Zone, Golden Pocket zwischen 0.5 und 0.618, und eine offene FVG. Alle drei treffen denselben Bereich:
 
 ![Dreifache Confluence – S&R, Golden Pocket und FVG]({{ "/assets/img/posts/confluence-beispiel.png" | relative_url }})
 
-Der rote Pfeil markiert genau den Punkt, an dem der Kurs in den Confluence-Bereich läuft und dreht. Nicht zufällig – drei unabhängige Konzepte haben denselben Preis markiert.
+Der rote Pfeil markiert genau den Punkt, an dem der Kurs in den Confluence-Bereich läuft und dreht. Nicht zufällig – drei unabhängige Konzepte haben denselben Preis markiert. -->
 
 ---
 
