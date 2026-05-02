@@ -97,7 +97,7 @@ Wenn der Kurs zum Retest zurückkommt, warte ich auf Ablehnung. Eine Hammerkerze
 
 ---
 
-## Break & Retest mit Confluence – die Königsklasse
+## Break & Retest mit Confluence
 
 Jetzt kommt alles zusammen.
 
@@ -111,7 +111,7 @@ Das ist das vollständige Setup.
   <div style="background:#f8f4ef;border:1px solid #e0d6c8;border-radius:8px;padding:1rem;">
     <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.08em;color:#999;margin-bottom:0.3rem;">SCHRITT 1</div>
     <div style="font-size:1rem;font-weight:700;color:#333;">Starke Zone identifizieren</div>
-    <div style="font-size:0.85rem;color:#666;margin-top:0.3rem;">Daily / 4H – Confluence wenn vorhanden</div>
+    <div style="font-size:0.85rem;color:#666;margin-top:0.3rem;">Daily / 4H / 1H – Confluence wenn vorhanden</div>
   </div>
   <div style="text-align:center;font-size:1.2rem;color:#bbb;">↓</div>
   <div style="background:#f8f4ef;border:1px solid #e0d6c8;border-radius:8px;padding:1rem;">
@@ -129,7 +129,7 @@ Das ist das vollständige Setup.
   <div style="background:#f8f4ef;border:1px solid #e0d6c8;border-radius:8px;padding:1rem;">
     <div style="font-size:0.75rem;font-weight:700;letter-spacing:0.08em;color:#999;margin-bottom:0.3rem;">SCHRITT 4</div>
     <div style="font-size:1rem;font-weight:700;color:#333;">Ablehnung bestätigen</div>
-    <div style="font-size:0.85rem;color:#666;margin-top:0.3rem;">Hammerkerze oder sichtbare Reaktion auf dem 30M / 15M</div>
+    <div style="font-size:0.85rem;color:#666;margin-top:0.3rem;">Hammerkerze oder Engulfing Kerze auf dem 1H / 30M / 15M</div>
   </div>
 </div>
 
