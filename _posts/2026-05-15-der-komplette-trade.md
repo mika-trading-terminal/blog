@@ -1,5 +1,5 @@
 ---
-title: "Stop zuerst – wie du aus einem Break & Retest Setup einen vollständigen Trade aufbaust"
+title: "Der komplette Trade – wie du aus einem Break & Retest Setup einen vollständigen Trade aufbaust"
 date: 2026-05-15 12:00:00 +0200
 categories: [Chartanalyse, Grundlagen]
 tags: [trademanagement, stoploss, risikomanagement, chancerisikoverhältnis, break-and-retest, priceaction, marktkontext]
@@ -39,7 +39,7 @@ Die Wick ist der Beweis: Der Kurs ist in die Zone eingetaucht, hat dort Ablehnun
 
 ### Newsgetriebenes Marktumfeld – mehr Luft mit Struktur
 
-Gerade jetzt, in einem Umfeld das von Makro-Events, politischen Tweets und schnellen Sentiment-Wechseln geprägt ist, sieht das anders aus. Ein enger Stop unter die Wick führt in solchen Phasen zu unnötigen Ausstopp-Aktionen – der Kurs fährt kurz durch die Zone, sammelt die Stops, und läuft dann exakt in die ursprüngliche Richtung.
+Gerade jetzt, in einem Umfeld das von Makro-Events, politischen Tweets und schnellen Sentiment-Wechseln geprägt ist, sieht das anders aus. Ein enger Stop unter die Wick führt in solchen Phasen zu unnötigen Stops – der Kurs bricht kurz durch die Zone, holt sich Liquidität, und läuft dann exakt in die ursprüngliche Richtung.
 
 In diesem Umfeld gebe ich dem Trade bewusst mehr Luft. Strukturbasiert. Ich schaue mir an:
 
@@ -58,7 +58,7 @@ Jetzt – nach dem Stop – kommt das Ziel.
 
 Ich arbeite mit einem Mindest-CRV von **1:2**. Das bedeutet: Für jeden Euro, den ich riskiere, will ich mindestens zwei Euro als Ziel. Alles was darüber liegt, ist Bonus – ich nehme es mit, wenn die Marktstruktur es hergibt. Aber 1:2 ist meine Untergrenze.
 
-Das Ziel selbst ergibt sich aus der Marktstruktur: Was ist das nächste relevante Level in Richtung meines Trades? Das nächste Widerstandscluster auf dem Daily oder 4H. Die Zone, an der der Kurs beim letzten Mal gedreht hat. Nicht eine runde Zahl, nicht ein Bauchgefühl – eine Zone, die auf dem Chart sichtbar ist.
+Das Ziel selbst ergibt sich aus der Marktstruktur: Was ist das nächste relevante Level in Richtung meines Trades? Die Zone, an der der Kurs beim letzten Mal gedreht hat. Nicht eine runde Zahl, nicht ein Bauchgefühl – eine Zone, die auf dem Chart sichtbar ist.
 
 Jetzt kommt die entscheidende Frage:
 
@@ -75,6 +75,8 @@ Wenn das Ziel genau vor einem massiven Resistance-Block liegt, den der Kurs noch
 Ich höre oft: „Warum nicht höher zielen? Warum nicht 1:3 oder 1:5?"
 
 Die Antwort: Weil 1:2 schon funktioniert – wenn du konsequent dabei bleibst.
+
+Alles über einem 1:2 CRV erschwert das Erreichen des Ziels und senkt die Winrate.
 
 | Winrate | CRV  | Ergebnis nach 10 Trades |
 |---------|------|--------------------------|
